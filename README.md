@@ -92,7 +92,6 @@
 Добавляю сервера.
 астраиваю дешборды с отображением метрик, минимальный набор
 ![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.4.1.png)
-![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.4.2.png)
 ![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.4.3.png)
 ![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.4.4.png)
 ![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.4.5.png)
