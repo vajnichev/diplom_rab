@@ -54,15 +54,11 @@
 ##### Сайт. Веб-сервера. Nginx.
   
 Устанавливаю сервер nginx на 2 ВМ. Заменяю стандартный файл `index.nginx-debian.html`
-```ansible
----
 ![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.2.1.png)
 
 #### Мониторинг. Zabbix. Zabbix-agent.
 
 Разворачиваю Zabbix.
-```ansible
----
 ![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.2.2.png)
 
 На каждую ВМ устанавливаю Zabbix Agent, настраиваю агенты на отправление метрик в Zabbix.
@@ -78,9 +74,6 @@
 ![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.2.5.png)
 
 Устанавливаю Filebeat в ВМ к веб-серверам, настраиваю на отправку access.log, error.log nginx в Elasticsearch.
-
-```ansible
----
 ![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.2.6.png)
 ![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.2.7.png)
 
@@ -120,3 +113,4 @@
 
 ![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.7.1.png)
 ![png](https://github.com/vajnichev/diplom_rab/blob/main/img/1.7.2.png)
+
